@@ -4,7 +4,7 @@ function pickRandom(array) {
 
   if(index < 0){
 
-    return 0;
+    return array[0];
 
   } else{
 
